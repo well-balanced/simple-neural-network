@@ -12,7 +12,12 @@ This repository features a simple neural network implementation using the MNIST 
 ## Dataset
 
 - **Training Data:** 60,000 samples
-- **Test Data:** 10,000 samples
+- **Test Data:** 10,000 samples 
+
+The dataset used in this project is available in CSV format. You can download it from [pjreddie.com](https://pjreddie.com/projects/mnist-in-csv/#google_vignette).
+
+1. Download `mnist_train.csv` and `mnist_test.csv`.
+2. Place the files in the `./data/mnist/` directory.
 
 ## Performance
 
